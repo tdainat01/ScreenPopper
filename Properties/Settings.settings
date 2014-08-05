@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScreenPopper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RM_Customer_Maintenance</Value>
+    </Setting>
+    <Setting Name="WindownName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RM_Customer_Maintenance</Value>
+    </Setting>
+    <Setting Name="ScriptToRun" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Customer Number</Value>
+    </Setting>
+    <Setting Name="GPAppProc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dynamics</Value>
+    </Setting>
+    <Setting Name="FieldToSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Customer Number</Value>
+    </Setting>
+    <Setting Name="iStart" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="iTake" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\bin\Debug\ScreenPopper.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\bin\Debug\ScreenPopper.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\bin\Debug\Interop.Dynamics.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\obj\Debug\ScreenPopper.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\obj\Debug\ScreenPopper.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenPopper\ScreenPopper\bin\Debug\ScreenPopper.exe.config
